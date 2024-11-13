@@ -3,5 +3,4 @@
 inga pona tha mail sent agathu
 date updated , mail senting properly 
 
-need to update:
-*to give the output as per the second program runs 
+all good , runs succcessfully in the home, url routes updated 
