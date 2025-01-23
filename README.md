@@ -1,6 +1,6 @@
-# abi04nesh Django Google Calendar Integration
+#  Django Google Calendar 
 
-This project, **abi04nesh Django Google Calendar**, is a Django-based application that integrates with Google Calendar to manage events. It includes functionalities for scheduling, notifying, and handling event-related workflows.
+This project, **Django Google Calendar**, is a Django-based application that integrates with Google Calendar to manage events. It includes functionalities for scheduling, notifying, and handling event-related workflows.
 
 
 ## Installation
